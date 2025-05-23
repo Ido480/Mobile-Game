@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity Projects\\My project\\assets\\scripts\\enemyhithandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhithandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity projects\\my project\\assets\\kajamansroads\\filenamesdescription.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\kajamansroads\\filenamesdescription.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity Projects\\My project\\assets\\scripts\\hitnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hitnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity Projects\\My project\\assets\\scripts\\hitcollisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hitcollisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity Projects\\My project\\assets\\scripts\\hitfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hitfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity Projects\\My project\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity Projects\\My project\\assets\\scripts\\inputsystembinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputsystembinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileNamesDescription.txt",
+              "DocumentMoniker": "D:\\Unity Projects\\My project\\Assets\\KajamansRoads\\FileNamesDescription.txt",
+              "RelativeDocumentMoniker": "Assets\\KajamansRoads\\FileNamesDescription.txt",
+              "ToolTip": "D:\\Unity Projects\\My project\\Assets\\KajamansRoads\\FileNamesDescription.txt",
+              "RelativeToolTip": "Assets\\KajamansRoads\\FileNamesDescription.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-22T10:51:05.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyHitHandler.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\My project\\Assets\\Scripts\\EnemyHitHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHitHandler.cs",
+              "ToolTip": "D:\\Unity Projects\\My project\\Assets\\Scripts\\EnemyHitHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHitHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:45:06.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HitNotification.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\My project\\Assets\\Scripts\\HitNotification.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HitNotification.cs",
+              "ToolTip": "D:\\Unity Projects\\My project\\Assets\\Scripts\\HitNotification.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HitNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:34:07.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HitCollisionHandler.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\My project\\Assets\\Scripts\\HitCollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HitCollisionHandler.cs",
+              "ToolTip": "D:\\Unity Projects\\My project\\Assets\\Scripts\\HitCollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HitCollisionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:25:32.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HitFeedback.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\My project\\Assets\\Scripts\\HitFeedback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HitFeedback.cs",
+              "ToolTip": "D:\\Unity Projects\\My project\\Assets\\Scripts\\HitFeedback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HitFeedback.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:15:01.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\My project\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\Unity Projects\\My project\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:02:27.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputSystemBinder.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\My project\\Assets\\Scripts\\InputSystemBinder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputSystemBinder.cs",
+              "ToolTip": "D:\\Unity Projects\\My project\\Assets\\Scripts\\InputSystemBinder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputSystemBinder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:22:17.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
