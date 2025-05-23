@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6208aa77eb8558d49ae5cc133744e301
+timeCreated: 1451062619
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52628
+  packageName: Kajaman's Roads - Free
+  packageVersion: 1.0.1
+  assetPath: Assets/KajamansRoads/FileNamesDescription.txt
+  uploadId: 110399
